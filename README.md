@@ -11,6 +11,7 @@ The website contains:
 * Education details
 * Projects section
 * Contact information
+  
 
 ## Technologies Used
 
@@ -23,6 +24,14 @@ The website contains:
 * Project showcase
 * Contact details
 * Multi-page structure
+* Navigation Bar
+* Navigation Bar
+* Skills Cards
+* Flexbox Layout
+* Contact Form
+* Responsive-ready Structure
+
+
 
 ## Future Improvements
 
